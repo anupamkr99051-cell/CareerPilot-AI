@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+CareerPilot_Report.pdf
+temp_resume.pdf
