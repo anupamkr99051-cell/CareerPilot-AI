@@ -56,6 +56,7 @@ CareerPilot AI is an AI-powered career recommendation platform that analyzes res
 
 [https://YOUR-STREAMLIT-LINK.streamlit.app](https://careerpilot-ai-ezhkpqrm4oujn4hzy8bdeu.streamlit.app)
 
+
 ---
 
 ## 🔗 Repository
